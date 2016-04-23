@@ -1,4 +1,4 @@
-# 安裝篇
+# Installation Guide
 
 ## Ubuntu Linux
 
