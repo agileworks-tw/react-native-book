@@ -1,11 +1,11 @@
-# install
-
+#nstallGetting Started o* []( Linux
+)
 
 ## Ubuntu Linux
 
 Ubuntu Linux 16.04 LTS
 
-https://facebook.github.io/react-native/docs/getting-started-linux.html#content
+[Getting Started on Linux](https://facebook.github.io/react-native/docs/getting-started-linux.html#content)
 
 1. OpenJDK 8
 2. Node.js + NPM
