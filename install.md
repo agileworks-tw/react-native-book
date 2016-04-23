@@ -1,5 +1,4 @@
-#nstallGetting Started o* []( Linux
-)
+# 安裝篇
 
 ## Ubuntu Linux
 
