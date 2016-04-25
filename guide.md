@@ -2,8 +2,13 @@
 
 ## 安裝 Android 模擬器
 
+建議使用 Genymotion 模擬器（執行速度較快）：
 
 https://www.genymotion.com/thank-you-freemium/
+
+中文安裝教學：
+
+https://briian.com/15110/genymotion.html
 
 ## 設置 Android 模擬器
 
