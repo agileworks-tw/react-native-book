@@ -4,20 +4,24 @@
 
 在機器 A 列出裝置清單：
 
-```bash
+```
 adb devices
 ```
 
+執行結果如下：
+
 ```
 List of devices attached
-192.168.58.101:5555	device
+192.168.XXX.XXX:5555	device
 ```
 
-連線至指定裝置：
+在機器 B 連線至指定裝置：
 
 ```
 adb connect 192.168.XXX.XXX:5555
 ```
+
+## 建立並執行 React Native 專案
 
 建立新專案：
 
