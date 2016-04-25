@@ -5,7 +5,7 @@
 
 https://www.genymotion.com/thank-you-freemium/
 
-## 在虛擬機器中設置 Android 模擬器
+## 設置 Android 模擬器
 
 假設我們在 Host（實體主機）透過 Genymotion 運行 Android x86 模擬器，並透過 VM Guest 的開發環境連線到 Host。
 
