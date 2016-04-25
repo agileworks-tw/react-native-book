@@ -1,8 +1,8 @@
 # 新手指南
 
-## Android 模擬器設置
+## 遠端 Android 模擬器設置
 
-列出裝置清單：
+在機器 A 列出裝置清單：
 
 ```
 adb devices
