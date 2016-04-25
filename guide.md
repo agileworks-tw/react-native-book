@@ -4,8 +4,13 @@
 
 在機器 A 列出裝置清單：
 
-```
+```bash
 adb devices
+```
+
+```
+List of devices attached
+192.168.58.101:5555	device
 ```
 
 連線至指定裝置：
