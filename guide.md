@@ -1,8 +1,8 @@
 # 新手指南
 
-## 遠端 Android 模擬器設置
+## Android 模擬器設置
 
-在機器 A 列出裝置清單：
+在 Host 列出裝置清單：
 
 ```
 adb devices
@@ -15,7 +15,7 @@ List of devices attached
 192.168.XXX.XXX:5555	device
 ```
 
-然後在機器 B 連線至指定裝置（使用機器 A 的 IP 位址）：
+然後在 Guest 連線至指定裝置（使用 Host 的 IP 位址）：
 
 ```
 adb connect 192.168.XXX.XXX:5555
