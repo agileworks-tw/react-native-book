@@ -15,7 +15,7 @@ List of devices attached
 192.168.XXX.XXX:5555	device
 ```
 
-在機器 B 連線至指定裝置：
+然後在機器 B 連線至指定裝置（使用機器 A 的 IP 位址）：
 
 ```
 adb connect 192.168.XXX.XXX:5555
