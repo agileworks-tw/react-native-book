@@ -8,7 +8,7 @@
 adb devices
 ```
 
-連線至指定裝置
+連線至指定裝置：
 
 ```
 adb connect 192.168.XXX.XXX:5555
