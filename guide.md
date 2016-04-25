@@ -4,7 +4,7 @@
 
 假設我們在 Host（實體主機）透過 Genymotion 運行 Android x86 模擬器，並透過 VM Guest 的開發環境連線到 Host。
 
-在 Host 列出裝置清單：
+先在 Host 列出裝置清單：
 
 ```
 adb devices
