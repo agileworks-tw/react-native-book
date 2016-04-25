@@ -1,6 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [install](install.md)
-
+* [介紹](README.md)
+* [新手指南](guide.md)
