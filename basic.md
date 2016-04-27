@@ -2,11 +2,15 @@
 
 ## 文字
 
+JSX
+
 ```xml
 <Text style={styles.headline}>
   Hello {this.props.who}
 </Text>
 ```
+
+StyleShe
 
 ```json
 headline: {
