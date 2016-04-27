@@ -2,7 +2,7 @@
 
 ## 文字
 
-```jsx
+```xml
 <Text style={styles.welcome}>
   Hello {this.props.who}
 </Text>
