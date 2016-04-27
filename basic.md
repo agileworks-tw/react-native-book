@@ -8,5 +8,16 @@
 </Text>
 ```
 
+```css
+  welcome: {
+    fontSize: 36,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    textShadowColor: '#333333',
+    textShadowOffset: {width: 1, height: 1},
+    color: '#FFFFFF',
+  }
+```
+
 ## 圖片
 
