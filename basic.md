@@ -8,7 +8,7 @@
 </Text>
 ```
 
-```css
+```js
   welcome: {
     fontSize: 36,
     fontWeight: 'bold',
