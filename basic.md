@@ -25,7 +25,7 @@ headline: {
 
 ## 圖片
 
-```
+```xml
 <Image
   style={styles.icon}
   source={require('./myIcon.png')}
