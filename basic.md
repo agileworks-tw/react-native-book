@@ -8,7 +8,7 @@
 </Text>
 ```
 
-```js
+```json
   welcome: {
     fontSize: 36,
     fontWeight: 'bold',
